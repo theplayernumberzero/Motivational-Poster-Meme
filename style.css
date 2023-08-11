@@ -17,6 +17,8 @@ h1 {
   
 .motivation-img {
     border: 5px solid white;
-    width: 70%;
+    object-fit: cover;
+    height: 300px;
+    width: 400px;
 }
   
